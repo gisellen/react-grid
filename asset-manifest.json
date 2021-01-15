@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-grid/static/css/main.5dc46b57.chunk.css",
+    "main.js": "/react-grid/static/js/main.c477afb2.chunk.js",
+    "main.js.map": "/react-grid/static/js/main.c477afb2.chunk.js.map",
+    "runtime-main.js": "/react-grid/static/js/runtime-main.f4b8bb06.js",
+    "runtime-main.js.map": "/react-grid/static/js/runtime-main.f4b8bb06.js.map",
+    "static/js/2.6113842d.chunk.js": "/react-grid/static/js/2.6113842d.chunk.js",
+    "static/js/2.6113842d.chunk.js.map": "/react-grid/static/js/2.6113842d.chunk.js.map",
+    "static/js/3.4fb81177.chunk.js": "/react-grid/static/js/3.4fb81177.chunk.js",
+    "static/js/3.4fb81177.chunk.js.map": "/react-grid/static/js/3.4fb81177.chunk.js.map",
+    "index.html": "/react-grid/index.html",
+    "static/css/main.5dc46b57.chunk.css.map": "/react-grid/static/css/main.5dc46b57.chunk.css.map",
+    "static/js/2.6113842d.chunk.js.LICENSE.txt": "/react-grid/static/js/2.6113842d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4b8bb06.js",
+    "static/js/2.6113842d.chunk.js",
+    "static/css/main.5dc46b57.chunk.css",
+    "static/js/main.c477afb2.chunk.js"
+  ]
+}
